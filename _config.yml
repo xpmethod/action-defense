@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://xpmethod.plaintext.in/action-defense
 paginate:         1
 baseurl:          /
 author:
