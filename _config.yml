@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            #feminism
+tagline:          We curate. They analyze. You discuss.
 url:              http://xpmethod.plaintext.in/action-defense/
 paginate:         1
 baseurl:          http://xpmethod.plaintext.in/action-defense/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Tara L. Conley
+  url:            https://twitter.com/hashtagfeminism
+  email:          hashtagfeminism@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/xpmethod/action-defense
