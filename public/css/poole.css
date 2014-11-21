@@ -428,3 +428,14 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.sidebar-wrap {
+  float: right;
+  width: 20%;
+  height: 100%;
+}
+
+.sidebar-box {
+  display: block;
+}
+

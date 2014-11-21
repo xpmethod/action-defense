@@ -1,0 +1,18 @@
+<div class="sidebar-wrap">
+	
+<div class="sidebar-box">
+<h1>#Feminism</h1>
+<p>Keep this space AD-FREE. Donate to Hashtag Feminism today. All donations go to contributors.</p>
+<p> Donate Button Here </p>
+</div>
+
+<div class="sidebar-box">
+    <h1>Recent Posts</h1>
+    <ul>
+        {% for post in site.posts limit:5 %}
+          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
+</div>
