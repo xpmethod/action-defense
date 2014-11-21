@@ -432,11 +432,13 @@ a.pagination-item:hover {
 .sidebar-body {
   float: left;
   width: 20%;
+  height: 100%;
 }
 
 .main-body {
   float: left;
   width: 80%;
+  height: 100%;
 }
 
 .sidebar-wrap {
