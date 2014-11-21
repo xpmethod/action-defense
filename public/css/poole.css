@@ -429,10 +429,17 @@ a.pagination-item:hover {
   }
 }
 
-.sidebar-wrap {
-  float: right;
+.sidebar-body {
+  float: left;
   width: 20%;
-  height: 100%;
+}
+
+.main-body {
+  float: left;
+  width: 80%;
+}
+
+.sidebar-wrap {
 }
 
 .sidebar-box {
