@@ -1,7 +1,7 @@
 <div class="sidebar-wrap">
 	
 <div class="sidebar-box">
-<h1>#Feminism</h1>
+<h2>Donate</h2>
 <p>Keep this space AD-FREE. Donate to Hashtag Feminism today. All donations go to contributors.</p>
 <script src="paypal-button.min.js?merchant=YOUR_MERCHANT_ID"
     data-button="donate"
@@ -12,6 +12,14 @@
 </div>
 
 <div class="sidebar-box">
+<h2>Tags</h2>
+<ul>
+    {% for tag in site.tags %}
+        <li><a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
+    {% endfor %}
+
+<!--
+<div class="sidebar-box">
     <h1>Recent Posts</h1>
     <ul>
         {% for post in site.posts limit:5 %}
@@ -19,5 +27,6 @@
         {% endfor %}
     </ul>
 </div>
+-->
 
 </div>
