@@ -8,7 +8,9 @@ title: Home
 
   {% for post in site.posts %}
     <article class="post">
-      <h1>{{ post.title }}</h1>
+        {% if post.title %}
+            <h1>{{ post.title }}</h1>
+        {% endif %}
 
       {{ post.content }}
     </article>
