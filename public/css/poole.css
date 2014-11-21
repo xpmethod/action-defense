@@ -59,15 +59,15 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #ffffff;
+  background-color: #0000000;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #e86d9c;
   text-decoration: none;
 }
 a strong {
@@ -132,8 +132,8 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid #e86d9c;
+  border-bottom: 1px solid #e86d9c;
 }
 
 abbr {
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #ffffff;
 }
 .page-title,
 .post-title {
