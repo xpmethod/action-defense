@@ -442,6 +442,15 @@ a.pagination-item:hover {
 .sidebar-wrap {
 }
 
+.main-body {
+  float: left;
+  width: 80%;
+  height: 100%;
+}
+
+.sidebar-wrap {
+}
+
 .sidebar-box {
   display: block;
 }
