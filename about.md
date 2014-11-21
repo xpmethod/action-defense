@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+> “Just wanted to say that this website is an amazing idea. Thanks for collecting the receipts!” — Cate Young (@BattyMamzelle) December 22, 2013
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+\#Feminism Vision and Philosophy
 
-There are currently two themes built on Poole:
+1. Quality content is king! Better yet, queen! We want to produce quality feminist-leaning content at the intersection of culture, society, politics, and art that people will want to consume and gladly support.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+2. We envision Hashtag Feminism as the Bentley of online feminist publishing with Beyonce sitting comfortably in the passenger seat. We only drive quality.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+3. All sides of the argument matter. All personal experiences are valid.
 
-## Setup
+4. Smart > superficial. Sass > snark.
 
-Some fun facts about the setup of this project include:
+5. We explore feminist-leaning topics through media lenses. Media means text, images, and sound. Media means interactive. Media means the message.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Read [why \#F](http://www.hashtagfeminism.com/?p=107)from Hashtag Feminism founder Tara L. Conley.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
