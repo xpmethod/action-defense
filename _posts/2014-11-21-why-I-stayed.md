@@ -1,6 +1,10 @@
 ---
 layout: post
 title:
+tags: 
+- rayrice
+- domestic violence
+published: true
 ---
 
 <a href="http://www.hashtagfeminism.com/wp-content/uploads/2014/09/WhyIStayed.png"><img class="size-full wp-image-888 aligncenter" src="http://www.hashtagfeminism.com/wp-content/uploads/2014/09/WhyIStayed.png" alt="#WhyIStayed" width="1024" height="768" /></a>
