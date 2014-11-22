@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Hashtag Feminism
 tagline:          We curate. They analyze. You discuss.
 url:              http://xpmethod.plaintext.in/action-defense/
-# baseurl:          http://xpmethod.plaintext.in/action-defense/
+baseurl:          http://xpmethod.plaintext.in/action-defense/
 author:
   name:           Tara L. Conley
   url:            https://twitter.com/hashtagfeminism
