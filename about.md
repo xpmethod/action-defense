@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 > “Just wanted to say that this website is an amazing idea. Thanks for collecting the receipts!” — Cate Young (@BattyMamzelle) December 22, 2013

@@ -3279,6 +3279,10 @@ th.hide-for-touch {
         color: pink;
 }
 
+#extra-active a:link {
+    color: pink;
+}
+
 #content p {
     text-align: justify;
     text-justify: inter-word;
