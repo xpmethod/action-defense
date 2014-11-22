@@ -2,15 +2,13 @@
 
     <body>
     <div class="row" style="margin-top: 2em;">
-        <div class="small-9 columns">
+        <div class="small-10 columns">
             <div class="row">
-                <center><h5>{{ site.tagline }}</h5></center>
-            </div>
-            <div class="row">
-                <center>
-                    <h3>{% include navi.html %}</h3>
-                    <hr style="margin-left: 4em; margin-right: 4em; color: red;">
-                </center>
+                <div class="small-12">
+                    <h5 class="text-center">{{ site.tagline }}</h5>
+                    <center>{% include navi.html %}</center>
+                    <hr class="text-center" style="margin-top: 0em; margin-left: 3em; margin-right: 3em; border-color: pink;">
+                </div>
             </div>
 
             <div class="row">
@@ -18,11 +16,13 @@
             </div>
 
             <div class="row">
-                Hashtag Feminism {{ site.time | date: '%Y' }}. A MEDIA MAKE CHANGE, Inc. Enterprise.
+                <div class="small-12">
+                    Hashtag Feminism {{ site.time | date: '%Y' }}. A MEDIA MAKE CHANGE, Inc. Enterprise.
+                </div>
             </div>
         </div>
 
-        <div class="small-3 columns">
+        <div class="small-2 columns">
             {% include sidebar.html %}
         </div>
 
