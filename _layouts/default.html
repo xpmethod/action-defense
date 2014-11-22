@@ -1,13 +1,16 @@
 {% include head.html %}
 
     <body>
-    <div class="row">
+    <div class="row" style="margin-top: 2em;">
         <div class="small-9 columns">
             <div class="row">
-                <small>{{ site.tagline }}</small>
+                <center><h5>{{ site.tagline }}</h5></center>
             </div>
             <div class="row">
-                <h3>{% include navi.html %}</h3>
+                <center>
+                    <h3>{% include navi.html %}</h3>
+                    <hr style="margin-left: 4em; margin-right: 4em; color: red;">
+                </center>
             </div>
 
             <div class="row">
@@ -15,9 +18,7 @@
             </div>
 
             <div class="row">
-                <small>
-                    Hashtag Feminism {{ site.time | date: '%Y' }}. A MEDIA MAKE CHANGE, Inc. Enterprise.
-                </small>
+                Hashtag Feminism {{ site.time | date: '%Y' }}. A MEDIA MAKE CHANGE, Inc. Enterprise.
             </div>
         </div>
 
