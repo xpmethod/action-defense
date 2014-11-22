@@ -1,11 +1,12 @@
-<ul class="inline-list" style="display: inline-block; float: none;">
+<ul class="inline-list" style="display: inline-block; float: none; margin-bottom: 0em;">
 {% assign sorted_pages = site.pages | sort:"name" %}
 {% for node in sorted_pages %}
 {% if node.title != null %}
     <!-- this matches strings in the url to node title to highlight the active page -->
-    <li><h4><a id="extra{% if page.url contains node.title %}-active{% endif %}" href="{{ node.url }}">
+    <li><div class="extra{% if page.url contains node.title %}-active{% endif %}">
+        <h4><a  href="{{ node.url }}">
         {{ node.title }}
-    </a></h4></li>
+    </a></h4></div></li>
 {% endif %}
 {% endfor %}
 </ul>

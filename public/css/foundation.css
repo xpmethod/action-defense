@@ -3271,6 +3271,10 @@ th.hide-for-touch {
     display: table-cell !important; } }
 
 /* CUSTOM */
-#extra a:link {
+.extra a:link {
     color: white;
+}
+
+.extra a:hover {
+        color: pink;
 }
