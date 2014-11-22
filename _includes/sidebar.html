@@ -1,15 +1,9 @@
 <div class="small-2 columns">
-<div class="row">
+    <div id="sidebar">
     <h4>Donate</h4>
-    <p>Keep this space AD-FREE. Donate to Hashtag Feminism today. All donations go to contributors.</p>
-    <script src="paypal-button.min.js?merchant=YOUR_MERCHANT_ID"
-        data-button="donate"
-        data-name="My product"
-        data-amount="1.00"
-        async></script>
+    Keep this space AD-FREE. Donate to Hashtag Feminism today. All donations go to contributors.
     </div>
 
-    <div class="row">
     <h4>Tags</h2>
         <ul class="inline-list">
             {% for post in site.posts %}
@@ -18,16 +12,4 @@
             {% endfor %}
             {% endfor %}
         </ul>
-    </div>
 </div>
-
-<!--
-<div class="sidebar-box">
-    <h1>Recent Posts</h1>
-    <ul>
-        {% for post in site.posts limit:5 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-</div>
--->
