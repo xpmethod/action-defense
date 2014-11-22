@@ -3283,8 +3283,3 @@ th.hide-for-touch {
     color: pink;
 }
 
-#content p {
-    text-align: justify;
-    text-justify: inter-word;
-    text-size: 1.3em;
-}
