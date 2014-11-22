@@ -24,7 +24,8 @@ This past Monday morning, TMZ released the full security camera video of the ass
 
 Many NFL fans on Twitter have noted this video contains no new information, and terminating Ray Rice after its release was a blatant attempt to save face. It didn’t work. It’s clear at this point that the NFL not only <a href="http://www.usatoday.com/story/sports/nfl/2014/09/10/ap-newsbreak-source-says-rice-video-sent-to-nfl/15407231/" target="_blank">grossly mishandled the case</a>, but merely continued its record as a massive profit-making, image-conscious institution that has a record of condoning DV.
 
-https://twitter.com/democracynow/status/509475131887222784
+<blockquote class="twitter-tweet" lang="en"><p>It’s Not Just Ray Rice: <a href="https://twitter.com/EdgeofSports">@EdgeofSports</a> on the NFL’s History of Condoning Domestic Abuse <a href="http://t.co/hbjyFPAQIO">http://t.co/hbjyFPAQIO</a></p>&mdash; Democracy Now! (@democracynow) <a href="https://twitter.com/democracynow/status/509475131887222784">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Those who question Janay Rice's apology during the joint press conference don't take into consideration the binding circumstances. Rice was interviewed publicly, in front of her abuser, all while her abuser's career hung in the balance; solely dependent upon her corroboration of the mutual blame story.
 
@@ -34,33 +35,39 @@ Tuesday morning, Janay Rice responded via her private <a href="http://www.marie
 
 Given the circumstances, it is counterproductive to judge and condemn Janay Rice’s life choices. But while the public should respect her decisions as hers to make, advocates should also continue to speak out against lenient punishments for domestic abuse and educate people about why it’s so difficult for victims to leave.
 <h3>Enter, #WhyIStayed.</h3>
-&nbsp;
 
-https://twitter.com/bevtgooden/status/509006334709465088
+<blockquote class="twitter-tweet" lang="en"><p>I had to plan my escape for months before I even had a place to go and money for the bus to get there. <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a></p>&mdash; Beverly Gooden (@bevtgooden) <a href="https://twitter.com/bevtgooden/status/509006334709465088">September 8, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The lack of concern for Janay Rice spawned the hashtags #WhyIStayed, #WhyILeft, and #WhenILeft. Blogger Beverly Gooden started this Twitter conversation to address the fact that even after the disturbing video was released, some people were apathetic towards Janay Rice while others continued to blame her.
 
 <i>Read Beverly Gooden’s reasons for starting #WhyIStayed on<span class="apple-converted-space"> </span></i><a href="http://www.beverlygooden.com/hear/whyistayed"><i>her blog</i></a><span class="apple-converted-space"><i> </i></span><i>and in the<span class="apple-converted-space"> </span></i><a href="http://www.washingtonpost.com/news/morning-mix/wp/2014/09/09/whyistayed-she-saw-herself-in-ray-rices-wife-janay-and-tweeted-about-it-so-did-thousands-of-others/"><i>Washington Post</i></a><i>.</i>
 
-https://twitter.com/CrankstaWho/status/509165290681532416
+<blockquote class="twitter-tweet" lang="en"><p>Because I had no where else to go. <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a></p>&mdash; Christiauna Marie (@CrankstaWho) <a href="https://twitter.com/CrankstaWho/status/509165290681532416">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/kim0512/status/509170803527536640
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/whyistayed?src=hash">#whyistayed</a> I wasn&#39;t up to the probable custody battle. <a href="https://twitter.com/hashtag/WhyILeft?src=hash">#WhyILeft</a> My daughter was finally old enough. Marriage should never be mandatory.</p>&mdash; Kim Cowan (@kim0512) <a href="https://twitter.com/kim0512/status/509170803527536640">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/stalkingviolate/status/509166706871504896
+<blockquote class="twitter-tweet" lang="en"><p>20+ cops responded, but he was back inside before I finished packing - less than an hour later <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a></p>&mdash; H.Rights vs Stalkers (@stalkingviolate) <a href="https://twitter.com/stalkingviolate/status/509166706871504896">September 9, 2014</a></blockquote>
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 As all of these women can attest, there are many<span class="apple-converted-space"> valid </span>reasons why victims stay, including psychological, emotional, cultural, legal, and economic reasons. Perpetuating the notion that the responsibility is on victims to stop or prevent violence, paired with inadequate institutional responses is what makes DV stigmatized and often deadly.
 
-https://twitter.com/ProfessorCrunk/status/509135383117201408
+<blockquote class="twitter-tweet" lang="en"><p>Women who leave are less likely to be abused but they are abt 8 times more likely to be killed if they leave. <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a> <a href="https://twitter.com/hashtag/WhenILeft?src=hash">#WhenILeft</a></p>&mdash; Brittney Cooper (@ProfessorCrunk) <a href="https://twitter.com/ProfessorCrunk/status/509135383117201408">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/theresaanna/status/509166685698674688
+ckquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a> Because I lived with abuse from before I was born, was taught a woman&#39;s place through words and examples in my house as a kid.</p>&mdash; Theresa Summa (@theresaanna) <a href="https://twitter.com/theresaanna/status/509166685698674688">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/AfroIvoire/status/509162154478817280
+<blockquote class="twitter-tweet" lang="en"><p>It&#39;s not one day he hits you, it&#39;s everyday he works hard to make you smaller. <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a></p>&mdash; Elizabeth Plank (@feministabulous) <a href="https://twitter.com/feministabulous/status/509340606410547200">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/feministabulous/status/509340606410547200
+<blockquote class="twitter-tweet" lang="en"><p>After you read Janay Palmer&#39;s Instagram post, please read this chart before passing judgment on her words &amp; actions. <a href="http://t.co/Wn2qYBtTvF">pic.twitter.com/Wn2qYBtTvF</a></p>&mdash; Wendy Thurm (@hangingsliders) <a href="https://twitter.com/hangingsliders/status/509343053249654785">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/hangingsliders/status/509343053249654785
-
-https://twitter.com/NOMOREorg/status/509413978767114240
+<blockquote class="twitter-tweet" lang="en"><p>Why would a person stay in an abusive relationship? <a href="https://twitter.com/ndvh">@ndvh</a> has discussed a lot of reasons <a href="http://t.co/DV9SlhSGs3">http://t.co/DV9SlhSGs3</a>  <a href="https://twitter.com/hashtag/WhyIStayed?src=hash">#WhyIStayed</a></p>&mdash; NOMORE.org (@NOMOREorg) <a href="https://twitter.com/NOMOREorg/status/509413978767114240">September 9, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Women who are victims of DV often feel they are on their own and no one will believe or support their stories; these beliefs are not entirely unfounded. Laws like nuisance ordinances reinforce a belief of hopelessness, and further enable abusers to isolate and control their victims.
 
