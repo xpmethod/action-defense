@@ -5,7 +5,7 @@
     <!-- this matches strings in the url to node title to highlight the active page -->
     {% capture title %}{{ node.title | downcase | replace: " ", "-" }}{% endcapture %}
     <li><div id="extra{% if page.url contains title %}-active{% endif %}">
-    <h4><a href="{{ site.url }}{{ node.url }}">{{ node.title }}</a></h4></div></li>
+    <h4><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></h4></div></li>
 {% endif %}
 {% endfor %}
 </ul>

@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-Contact information.
+For press and other inquiries email: inquiries [at] hashtagfeminism [dot] com.
