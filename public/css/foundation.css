@@ -3271,10 +3271,15 @@ th.hide-for-touch {
     display: table-cell !important; } }
 
 /* CUSTOM */
-.extra a:link {
+#extra a:link {
     color: white;
 }
 
-.extra a:hover {
+#extra a:hover {
         color: pink;
+}
+
+#content p {
+    text-align: justify;
+    text-justify: inter-word;
 }

@@ -4,15 +4,17 @@
     <div class="row" style="margin-top: 2em;">
         <div class="small-10 columns">
             <div class="row">
-                <div class="small-12">
-                    <h5 class="text-center">{{ site.tagline }}</h5>
+                <div class="small-12" id="extra">
+                    <h5 class="text-center"><a href="{{ site.url }}">{{ site.tagline }}</a></h5>
                     <center>{% include navi.html %}</center>
                     <hr class="text-center" style="margin-top: 0em; margin-left: 3em; margin-right: 3em; border-color: pink;">
                 </div>
             </div>
 
             <div class="row">
-                {{ content }}
+                <div class="small-12" id="content">
+                    {{ content }}
+                </div>
             </div>
 
             <div class="row">
