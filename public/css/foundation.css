@@ -3286,4 +3286,5 @@ th.hide-for-touch {
 #content p {
     text-align: justify;
     text-justify: inter-word;
+    text-size: 1.3em;
 }
