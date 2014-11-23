@@ -17,6 +17,6 @@ title: About
 
 5. We explore feminist-leaning topics through media lenses. Media means text, images, and sound. Media means interactive. Media means the message.
 
-Read [why \#F](http://www.hashtagfeminism.com/?p=107)from Hashtag Feminism founder Tara L. Conley.
+Read [why \#F](http://www.hashtagfeminism.com/?p=107) from Hashtag Feminism founder Tara L. Conley.
 
 

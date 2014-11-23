@@ -3,6 +3,7 @@
     <h4>Donate</h4>
     Keep this space AD-FREE. Donate to Hashtag Feminism today. All donations go to contributors.
     </div>
+    </br>
 
     <h4>Tags</h2>
         <ul class="inline-list">
@@ -12,4 +13,8 @@
             {% endfor %}
             {% endfor %}
         </ul>
+    </br>
+
+    <h4>Related</h4>
+    {% for post in site.related_posts limit:3 %}
 </div>

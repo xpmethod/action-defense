@@ -1,10 +1,13 @@
 ---
 layout: post
-title:
+title: "#WhyIStayed: A Lesson In Empathy [OPINION]"
 tags: 
 - rayrice
 - domestic violence
 published: true
+author: "Aisha Springer"
+image: WhyIStayed.png
+snippet: "Domestic violence is incredibly common. The statistics are staggering: In the U.S. one in four women experiences domestic violence in her lifetime. Internationally, domestic violence kills more people than war. Yet domestic violence and violence against women is generally misunderstood and mischaracterized by individuals and the media, focusing on victim-blaming and excuse-making. Depictions of domestic violence are sensationalized, rationalized..."
 ---
 
 ![#WhyIStayed]({{ site.url }}/public/images/WhyIStayed.png)
