@@ -3,9 +3,10 @@ layout: page
 title: About
 ---
 
-> “Just wanted to say that this website is an amazing idea. Thanks for collecting the receipts!” — Cate Young (@BattyMamzelle) December 22, 2013
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtagfeminism">@hashtagfeminism</a> Just wanted to say that this website is an amazing idea. Thanks for collecting the receipts!</p>&mdash; NinjaCate (@BattyMamzelle) <a href="https://twitter.com/BattyMamzelle/status/414894926900391936">December 22, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-\#Feminism Vision and Philosophy
+##\#Feminism Vision and Philosophy
 
 1. Quality content is king! Better yet, queen! We want to produce quality feminist-leaning content at the intersection of culture, society, politics, and art that people will want to consume and gladly support.
 
